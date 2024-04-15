@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SeatAllocationOptimizer", "SeatAllocationOptimizer.Main\SeatAllocationOptimizer.csproj", "{7DDFA393-4DEE-46ED-89E6-7B04D674FB63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeatAllocationOptimizer.Test", "SeatAllocationOptimizer.Test\SeatAllocationOptimizer.Test.csproj", "{F4538A35-299E-4FF6-BC8D-864D44AFEF22}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Éléments de solution", "Éléments de solution", "{F569E1B4-2F75-4FFC-85B1-124E005CC12C}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DDFA393-4DEE-46ED-89E6-7B04D674FB63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DDFA393-4DEE-46ED-89E6-7B04D674FB63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DDFA393-4DEE-46ED-89E6-7B04D674FB63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DDFA393-4DEE-46ED-89E6-7B04D674FB63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4538A35-299E-4FF6-BC8D-864D44AFEF22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4538A35-299E-4FF6-BC8D-864D44AFEF22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4538A35-299E-4FF6-BC8D-864D44AFEF22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4538A35-299E-4FF6-BC8D-864D44AFEF22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FEB2D67-26ED-478F-AD41-52919DE08E15}
+	EndGlobalSection
+EndGlobal
